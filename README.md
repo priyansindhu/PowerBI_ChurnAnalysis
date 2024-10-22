@@ -22,4 +22,5 @@ The European bank is experiencing customer churn, with a significant number of c
 
 Excited to keep leveraging **Power BI** for data-driven insights! 📈🚀
 
+### Power BI Dashboard
 ![Power BI Dashboard](ChurnAnalysisDashboard.PNG)
