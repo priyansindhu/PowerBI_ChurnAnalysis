@@ -21,3 +21,5 @@ The European bank is experiencing customer churn, with a significant number of c
 - **Women-Focused Solutions:** Develop products and communications tailored for **female customers**.
 
 Excited to keep leveraging **Power BI** for data-driven insights! 📈🚀
+
+![Power BI Dashboard](ChurnAnlaysisDashboard.PNG)
